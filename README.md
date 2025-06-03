@@ -41,7 +41,7 @@ LOLTactician es una aplicación Android diseñada para jugadores y entrenadores 
 
 La aplicación sigue un **patrón de arquitectura por capas**:
 
-📁 Estructura del Proyecto
+Estructura del Proyecto
 
 ├── Capa de Presentación (Activities, Fragments, Adapters)
 
@@ -50,3 +50,23 @@ La aplicación sigue un **patrón de arquitectura por capas**:
 ├── Capa de Acceso a Datos (Repositorios, Modelos)
 
 └── Capa de Servicios Externos (APIs)
+
+## Capturas de Pantalla
+
+| Pantalla Principal | Lista de Campeones | Información de Campeones | Simulación de Draft |
+|:--:|:--:|:--:|:--:|
+| ![image](https://github.com/user-attachments/assets/ed295b22-b230-47c1-ba07-0d2a33957082) | ![image](https://github.com/user-attachments/assets/86dde78c-5a4c-4928-96ea-7c359976c042) | ![image](https://github.com/user-attachments/assets/a5c893d9-5875-4a1f-a06a-0851515253f1) | ![image](https://github.com/user-attachments/assets/7e23aab7-0cbe-4ec3-b444-973402b5524e) |
+
+## Funcionalidades Futuras
+
+- **Sistema de Recomendaciones IA** - Sugerencias inteligentes de picks/bans
+- **Análisis Estadístico** - Métricas de rendimiento de drafts
+- **Plantillas Predefinidas** - Drafts guardados por profesionales
+- **Integración con Esports** - Datos de competiciones oficiales
+
+## Autor
+
+### **José Andrés Estévez Acera**
+
+- **LinkedIn**: [José Andrés Estévez Acera](https://www.linkedin.com/in/jos%C3%A9-andr%C3%A9s-est%C3%A9vez-acera-b8a942309/)
+- **Email**: joanestac@gmail.com
