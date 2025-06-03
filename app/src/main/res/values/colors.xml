@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_principal_aplicacion">#CB6CE6</color>
+    <color name="color_lol">#091428</color>
+    <color name="equipo_azul">#3F51B5</color>
+    <color name="equipo_rojo">#F44336</color>
+</resources>

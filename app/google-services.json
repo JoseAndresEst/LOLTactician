@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692670437332",
+    "project_id": "loltacticiantfg",
+    "storage_bucket": "loltacticiantfg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692670437332:android:09661f70459e3c6f812841",
+        "android_client_info": {
+          "package_name": "com.example.loltactician"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3WaaaHkeWtsgQJMxP-BnkAauCxBFWxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
